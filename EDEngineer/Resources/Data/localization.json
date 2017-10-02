@@ -31,6 +31,12 @@
       "NotReadyWarning": "To tłumaczenie nie jest w pełni ukończone ! Jeżeli wybierzesz to tłumaczenie, tylko część aplikacji zostanie przetłumaczona. Wszystkie nieprzetłumaczone wpisy zostaną wyświetlone w j. angielskim."
     }
   },
+     "pt": {
+      "TwoLetterISOLanguageName": "pt",
+      "Name": "Português",
+      "NotReadyWarning": "Esta tradução está inconpleta! Se serlecionar-la, só serão traduzidos partes da aplicação. Tudo o que ainda não foi traduzido aparecerá em inglês."
+    }
+  },
   "Translations": {
     "Short Range Blaster": {
       "es": "Destructor de Corto Alcance",
